@@ -14,7 +14,7 @@ JavaScript | TypeScript | PostgreSQL | Nodejs | MySQL | MongoDB | Express | Type
 Ingeniería en Informatica - Universidad Politécnica Territorial de Valencia (2019 - Actualmente)
 
 
-Analista de Sistemas - Instituto Tecnológico de Tecnología para la Informatica (2014 - 2017)
+Analista de Sistemas - Instituto Universitario de Tecnología para la Informática (2014 - 2017)
 
 
 - 👋 Hola, mi nombre es Luis Alfredo Sarabia Valera...
