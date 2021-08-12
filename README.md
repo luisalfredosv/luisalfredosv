@@ -8,6 +8,7 @@ JavaScript | TypeScript | PostgreSQL | Node.js | MySQL | MongoDB | Express | Typ
 <b>🎓 Estudios</b>
 
 Ingeniería en Informática - Universidad Politécnica Territorial de Valencia (2019 - Actualmente)
+
 Analista de Sistemas - Instituto Universitario de Tecnología para la Informática (2014 - 2017)
 
 - 🤓 Me encuentro estudiando React, Next y Spring Boot...
