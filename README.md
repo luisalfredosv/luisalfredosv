@@ -1,13 +1,13 @@
 <h1>¡Hola! Soy Luis Alfredo Sarabia Valera</h1>
-<p>🕵️ Desarrollador con mas de 5 años de experiencia trabajando en proyectos Backend y Frontend...</p>
+<p>🕵️ Desarrollador con más de 5 años de experiencia trabajando en proyectos Backend y Frontend...</p>
 
 <h3>🏆 Skills</h3>
 
-- <b> Lenguajes de Programacion</b>: PHP, JavaScript, TypeScript y Golang. Python (Por Aprender).
-- <b> Frameworks Frontend</b>: Vue, Nuxt, Angular, React, Bulma, Bootstrap, Meterial Design y Tailwindcss. 
+- <b> Lenguajes de Programación</b>: PHP, JavaScript, TypeScript y Golang. Python (Por Aprender).
+- <b> Frameworks Frontend</b>: Vue, Nuxt, Angular, React, Bulma, Bootstrap, Material Design y Tailwindcss. 
 - <b> Frameworks Backend</b>: Express, Nest, TypeORM, Mongoose, Prisma, Laravel y Yii.
 - <b> Bases de Datos</b>: PostgreSQL, MySQL, MongoDB y Redis. DinamoBD (Por Aprender).
-- <b> Otros</b>: Ionic, Electron, Git, Linux, Metodologías Ágiles (Scrum), AWS y Heroku.
+- <b> Otros</b>: Ionic, Electrón, Git, Linux, Metodologías Ágiles (Scrum), AWS y Heroku.
   
 <h3>🎓 Estudios</h3>
 
