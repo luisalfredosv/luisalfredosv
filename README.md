@@ -3,10 +3,10 @@
 
 <h3>🏆 Skills</h3>
 
-- <b> Lenguajes de Programación</b>: PHP, JavaScript, TypeScript y Golang. Python (Por Aprender).
+- <b> Lenguajes de Programación</b>: PHP, JavaScript, TypeScript y Golang.
 - <b> Frameworks Frontend</b>: Vue, Nuxt, Angular, React, Bulma, Bootstrap, Material Design y Tailwindcss. 
 - <b> Frameworks Backend</b>: Express, Nest, TypeORM, Mongoose, Prisma, Laravel y Yii.
-- <b> Bases de Datos</b>: PostgreSQL, MySQL, MongoDB y Redis. DinamoBD (Por Aprender).
+- <b> Bases de Datos</b>: PostgreSQL, MySQL, MongoDB y Redis.
 - <b> Otros</b>: Ionic, Electrón, Git, Linux, Metodologías Ágiles (Scrum), AWS y Heroku.
   
 <h3>🎓 Estudios</h3>
