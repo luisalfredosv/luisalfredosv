@@ -17,10 +17,11 @@
 
 <h3>🐱‍ Contactame</h3>
 
-- 📫 E-mail: <a href="mailto:luissarabia80@gmail.com">luissarabia80@gmail.com</a> 
-- 📲 Telegram: <a href="https://t.me/luisalfredosv">t.me/luisalfredosv</a>
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/luisalfredosv">linkedin.com/in/luisalfredosv</a>
-- 🐱 Portafolio: <a href="https://luisalfredosv.vercel.app/">luisalfredosv.vercel.app/</a>
+<a href="https://www.linkedin.com/in/luisalfredosv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://luisalfredosv.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://t.me/luisalfredosv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="mailto:luissarabia80@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 
 <img src="https://github.com/luisalfredosv/luisalfredosv/blob/main/devcard.svg" width="350" alt="Luis Sarabia Dev Card"/>
