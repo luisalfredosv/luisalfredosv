@@ -23,4 +23,4 @@
 - 🐱 Portafolio: <a href="https://luisalfredosv.vercel.app/">luisalfredosv.vercel.app/</a>
 
 
-<a href="https://app.daily.dev/lsarabia"><img src="https://api.daily.dev/devcards/2095bb7ae417431bb5b523d4fbb0df98.png?r=cw1" width="400" alt="Luis Sarabia's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/luisalfredosv/luisalfredosv/blob/master/devcard.svg" width="400" alt="Luis Sarabia Dev Card"/></a>
