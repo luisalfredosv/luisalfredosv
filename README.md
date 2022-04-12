@@ -21,3 +21,6 @@
 - 📲 Telegram: <a href="https://t.me/luisalfredosv">t.me/luisalfredosv</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/luisalfredosv">linkedin.com/in/luisalfredosv</a>
 - 🐱 Portafolio: <a href="https://luisalfredosv.vercel.app/">luisalfredosv.vercel.app/</a>
+
+
+<a href="https://app.daily.dev/lsarabia"><img src="https://api.daily.dev/devcards/2095bb7ae417431bb5b523d4fbb0df98.png?r=cw1" width="400" alt="Luis Sarabia's Dev Card"/></a>
