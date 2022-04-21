@@ -1,5 +1,5 @@
 <h1>¡Hola! Soy Luis Sarabia</h1>
-<p>🕵️ Desarrollador con más de 5 años de experiencia trabajando en proyectos Backend, Frontend y otras veces como FullStack...</p>
+<p>🕵️ Desarrollador con 6 años de experiencia trabajando en proyectos Backend, Frontend y otras veces como FullStack...</p>
 
 <h3>🏆 Skills</h3>
 
