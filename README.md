@@ -4,10 +4,11 @@
 <h3>🏆 Skills</h3>
 
 - <b> Lenguajes de Programación</b>: PHP, JavaScript, TypeScript, Golang, JAVA y Kotlin.
-- <b> Frameworks Frontend</b>: Vue, Nuxt, Angular, Angular Universal, React y Next.
-- <b> Frameworks CSS</b> Tailwindcss, Bulma, Bootstrap y Material Design. 
-- <b> Frameworks Backend</b>: Nodesjs, Express, Fatify, Nest, TypeORM, Mongoose, Prisma, Laravel, Codeigniter, Yii y Spring.
+- <b> Frameworks Frontend</b>: Vue, Angular y React.
+- <b> Frameworks CSS</b>: Tailwindcss, Bulma, Bootstrap y Material Design. 
+- <b> Frameworks Backend</b>: Nodesjs, Express, Fatify, Nest, Nuxt, Angular Universal, Next, Laravel, Codeigniter, Yii y Spring.
 - <b> Bases de Datos</b>: PostgreSQL, MySQL, MongoDB, FireStore y Redis.
+- <b> Otras Herramientas</b>: TypeORM, Mongoose, Prisma y Eloquent. 
 - <b> Otros</b>: Git, Linux, Ionic, Electrón, Metodologías Ágiles (Scrum) y AWS.
   
 <h3>🎓 Estudios</h3>
