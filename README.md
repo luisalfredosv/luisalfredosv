@@ -16,7 +16,7 @@
 - Ingeniería en Informática - Universidad Politécnica Territorial de Valencia (2019 - Actualmente)(Sabatino).
 - Analista de Sistemas - Instituto Universitario de Tecnología para la Informática (2014 - 2017).
 
-<h3>🐱‍ Contactame</h3>
+<h3>🐱‍ Contáctame</h3>
 
 <a href="https://www.linkedin.com/in/luisalfredosv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://luisalfredosv.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
