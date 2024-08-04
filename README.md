@@ -11,7 +11,7 @@
 - **Computer Engineer** - Territorial Polytechnic University of Valencia (2019 - 2023)
 - **Systems Analyst** - University Institute of Information Technology (2014 - 2017)
 
-### 📫 Contáctame
+### 📫 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisalfredosv/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luissarabia.vercel.app)
 
