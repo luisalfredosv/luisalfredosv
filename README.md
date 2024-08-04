@@ -1,8 +1,8 @@
 # Hi!
 
 ### 🏆 Skills
-- **Programming Languages**: PHP, JavaScript, TypeScript, Golang and Python.
-- **Frontend**: Vue, Angular and React
+- **Programming Languages**: PHP, Javascript, Typescript, Golang and Python.
+- **Frontend**: Vuejs, Angular and React
 - **Backend**: Node.js, Express, Fastify, Nestjs, Nuxt, Angular Universal, Nextjs, Astro, Laravel, CodeIgniter, Yii and FastAPI.
 - **Databases**: PostgreSQL, MySQL, MongoDB, Microsoft SQL Server and Redis.
 - **Others**: Git, Linux, Electron, React Native, AWS, Docker, REST, GraphQL and Microservices.
